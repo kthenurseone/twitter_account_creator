@@ -24,7 +24,8 @@ If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenu
 ## Features
 - Auto number getting
 - Random username generator
-- 
+- Auto code input
+- Save accounts into accounts.txt
 
 
 ## Installation
