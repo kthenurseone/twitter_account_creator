@@ -1,4 +1,4 @@
-<p align="center"><a href="https://youtu.be/JCKmnJp48DE" target="_blank"><img src="https://github.com/kthenurseone/twitter_account_creator/blob/main/video_kapak.png?raw=true"></a></p>
+<p align="center"><a href="https://youtu.be/JCKmnJp48DE" target="_blank"><img src="https://github.com/kthenurseone/twitter_account_creator/blob/main/1.png?raw=true"></a></p>
 
 <p align="center">
     <a href="https://www.python.org/downloads/release/python-380/"><img src="https://img.shields.io/badge/python-3.8-blue.svg?style=plastic" alt="Python version"></a>
@@ -38,6 +38,7 @@ If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenu
 ## Images
 ![Telegram Message Bot](https://github.com/kthenurseone/twitter_account_creator/blob/main/1.png?raw=true)
 ![Telegram Message Bot](https://github.com/kthenurseone/twitter_account_creator/blob/main/2.png?raw=true)
+![Telegram Message Bot](https://github.com/kthenurseone/twitter_account_creator/blob/main/3.png?raw=true)
 
 
 
